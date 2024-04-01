@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&pause=1000&color=1DF713&center=true&vCenter=true&random=false&width=500&lines=Here+is+Mun+Joon+Ho's+github)](https://git.io/typing-svg)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=mjh000526&show_icons=true&theme=nord&hide_border=true" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=mjh000526&show_icons=true" width="500">
 <br>
 <br>
 
