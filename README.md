@@ -1,5 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&pause=1000&color=1DF713&center=true&vCenter=true&random=false&width=435&lines=Here+is+Mun+Joon+Ho's+github)](https://git.io/typing-svg)
+ <br/>
+ <br/>
+####  :wrench: I know!  :wrench:
+<br/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 <!--
 **mjh000526/mjh000526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
