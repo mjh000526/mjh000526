@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <h3>🛠 Tools 🛠<h3>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">  <img src="https://img.shields.io/badge/intellij%20idea?style=for-the-badge&logo=IntelliJ&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">  <img src="https://img.shields.io/badge/IntelliJ IDEA?style=for-the-badge&logo=IntelliJ&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
 <br/>
 ----
 <!--
