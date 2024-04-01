@@ -12,7 +12,7 @@
 <br>
 <h3>🛠 Tools 🛠<h3>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">  <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
-
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjh000526&layout=donut" width="500">
 
