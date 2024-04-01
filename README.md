@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&pause=1000&color=1DF713&center=true&vCenter=true&random=false&width=435&lines=Here+is+Mun+Joon+Ho's+github)](https://git.io/typing-svg)
 <br/>
 <br/>
